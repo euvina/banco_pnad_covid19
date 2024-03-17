@@ -1,0 +1,1111 @@
+regiao,estado,raca_cor,escolaridade,respondentes
+Norte,AP,Branca,Superior completo,198
+Norte,AP,Parda,Fundamental incompleto,1549
+Norte,AP,Parda,"Pós-graduação, mestrado ou doutorado",121
+Norte,AP,Parda,Sem instrução,600
+Norte,AP,Branca,Fundamental incompleto,414
+Norte,AP,Parda,Fundamental completo,277
+Norte,AP,Branca,Superior incompleto,106
+Norte,AP,Preta,Fundamental completo,26
+Norte,AP,Branca,Médio incompleto,153
+Norte,AP,Indígena,Superior completo,8
+Norte,AP,Preta,Sem instrução,47
+Norte,AP,Preta,Superior incompleto,44
+Norte,AP,Preta,Fundamental incompleto,126
+Norte,AP,Branca,Fundamental completo,96
+Norte,AP,Indígena,Médio completo,1
+Norte,AP,Amarela,Superior incompleto,5
+Norte,AP,Indígena,Superior incompleto,3
+Norte,AP,Ignorada,Superior incompleto,1
+Norte,AC,Branca,Fundamental incompleto,1097
+Norte,AC,Parda,Médio incompleto,1485
+Norte,AC,Parda,Sem instrução,1643
+Norte,AC,Parda,Superior incompleto,823
+Norte,AC,Branca,Sem instrução,511
+Norte,AC,Branca,Médio completo,891
+Norte,AC,Branca,Superior incompleto,209
+Norte,AC,Branca,"Pós-graduação, mestrado ou doutorado",147
+Norte,AC,Amarela,Fundamental completo,2
+Norte,AC,Amarela,Sem instrução,13
+Norte,AC,Amarela,Médio completo,23
+Norte,AC,Branca,Superior completo,467
+Norte,AC,Preta,Médio incompleto,111
+Norte,AC,Preta,"Pós-graduação, mestrado ou doutorado",27
+Norte,AC,Preta,Superior completo,140
+Norte,AC,Amarela,Médio incompleto,12
+Norte,AC,Indígena,Médio incompleto,3
+Norte,AC,Preta,Superior incompleto,78
+Norte,AC,Amarela,Superior incompleto,6
+Norte,RO,Branca,Fundamental incompleto,1800
+Norte,RO,Branca,Médio completo,850
+Norte,RO,Branca,Fundamental completo,274
+Norte,RO,Parda,Sem instrução,1197
+Norte,RO,Branca,Sem instrução,581
+Norte,RO,Parda,Fundamental completo,565
+Norte,RO,Branca,Médio incompleto,417
+Norte,RO,Preta,Superior incompleto,44
+Norte,RO,Preta,Fundamental completo,75
+Norte,RO,Parda,"Pós-graduação, mestrado ou doutorado",197
+Norte,RO,Indígena,Superior incompleto,9
+Norte,RO,Amarela,Superior incompleto,11
+Norte,RO,Branca,"Pós-graduação, mestrado ou doutorado",114
+Norte,RO,Amarela,"Pós-graduação, mestrado ou doutorado",6
+Norte,RO,Preta,Sem instrução,143
+Norte,RO,Amarela,Médio completo,32
+Norte,RO,Indígena,Médio completo,13
+Norte,RO,Indígena,Sem instrução,4
+Norte,RO,Amarela,Médio incompleto,6
+Norte,RO,Amarela,Fundamental completo,6
+Norte,RO,Amarela,Sem instrução,20
+Norte,RO,Indígena,Médio incompleto,3
+Norte,RO,Indígena,Fundamental completo,3
+Norte,RR,Branca,Sem instrução,462
+Norte,RR,Branca,Fundamental incompleto,778
+Norte,RR,Parda,Superior incompleto,605
+Norte,RR,Parda,Médio incompleto,1296
+Norte,RR,Parda,Superior completo,966
+Norte,RR,Indígena,Médio completo,215
+Norte,RR,Preta,Médio completo,419
+Norte,RR,Indígena,Sem instrução,125
+Norte,RR,Preta,Médio incompleto,204
+Norte,RR,Branca,Médio incompleto,310
+Norte,RR,Parda,"Pós-graduação, mestrado ou doutorado",123
+Norte,RR,Preta,Fundamental completo,56
+Norte,RR,Branca,Fundamental completo,131
+Norte,RR,Preta,Fundamental incompleto,417
+Norte,RR,Preta,Sem instrução,157
+Norte,RR,Amarela,Superior completo,19
+Norte,RR,Preta,Superior incompleto,67
+Norte,RR,Branca,"Pós-graduação, mestrado ou doutorado",87
+Norte,RR,Amarela,Médio completo,36
+Norte,RR,Amarela,Fundamental completo,3
+Centro-Oeste,DF,Parda,Médio incompleto,855
+Centro-Oeste,DF,Branca,Superior completo,1848
+Centro-Oeste,DF,Parda,Médio completo,2350
+Centro-Oeste,DF,Branca,Médio incompleto,573
+Centro-Oeste,DF,Preta,Fundamental incompleto,447
+Centro-Oeste,DF,Parda,Superior completo,1517
+Centro-Oeste,DF,Parda,Superior incompleto,688
+Centro-Oeste,DF,Amarela,Médio completo,47
+Centro-Oeste,DF,Branca,Sem instrução,709
+Centro-Oeste,DF,Branca,Fundamental incompleto,1502
+Centro-Oeste,DF,Preta,Sem instrução,153
+Centro-Oeste,DF,Preta,Fundamental completo,149
+Centro-Oeste,DF,Branca,Fundamental completo,387
+Centro-Oeste,DF,Preta,Médio incompleto,199
+Centro-Oeste,DF,Amarela,Fundamental incompleto,33
+Centro-Oeste,DF,Ignorada,Superior completo,4
+Centro-Oeste,DF,Ignorada,Fundamental incompleto,20
+Centro-Oeste,DF,Indígena,Médio completo,11
+Centro-Oeste,DF,Indígena,Sem instrução,2
+Centro-Oeste,DF,Indígena,Fundamental incompleto,11
+Centro-Oeste,DF,Indígena,Superior incompleto,3
+Centro-Oeste,DF,Amarela,Fundamental completo,12
+Centro-Oeste,DF,Indígena,"Pós-graduação, mestrado ou doutorado",5
+Norte,TO,Parda,Fundamental completo,548
+Norte,TO,Parda,Fundamental incompleto,3746
+Norte,TO,Parda,Médio completo,2117
+Norte,TO,Branca,Sem instrução,510
+Norte,TO,Preta,Sem instrução,180
+Norte,TO,Parda,Superior incompleto,438
+Norte,TO,Branca,"Pós-graduação, mestrado ou doutorado",177
+Norte,TO,Branca,Superior completo,494
+Norte,TO,Parda,"Pós-graduação, mestrado ou doutorado",181
+Norte,TO,Branca,Médio incompleto,321
+Norte,TO,Preta,"Pós-graduação, mestrado ou doutorado",39
+Norte,TO,Indígena,Fundamental completo,3
+Norte,TO,Indígena,Médio completo,6
+Norte,TO,Indígena,Fundamental incompleto,27
+Norte,TO,Amarela,Fundamental incompleto,27
+Norte,TO,Amarela,Médio incompleto,9
+Norte,TO,Amarela,Fundamental completo,10
+Norte,TO,Amarela,Superior incompleto,6
+Norte,TO,Indígena,Sem instrução,6
+Norte,TO,Ignorada,Superior completo,3
+Nordeste,SE,Parda,Superior incompleto,647
+Nordeste,SE,Preta,Fundamental incompleto,786
+Nordeste,SE,Branca,Fundamental incompleto,2009
+Nordeste,SE,Parda,Superior completo,892
+Nordeste,SE,Preta,Médio completo,531
+Nordeste,SE,Branca,Sem instrução,845
+Nordeste,SE,Parda,"Pós-graduação, mestrado ou doutorado",238
+Nordeste,SE,Branca,Superior incompleto,229
+Nordeste,SE,Branca,Fundamental completo,152
+Nordeste,SE,Preta,Fundamental completo,100
+Nordeste,SE,Preta,"Pós-graduação, mestrado ou doutorado",30
+Nordeste,SE,Indígena,Médio completo,12
+Nordeste,SE,Branca,"Pós-graduação, mestrado ou doutorado",106
+Nordeste,SE,Indígena,Sem instrução,8
+Nordeste,SE,Amarela,Fundamental incompleto,8
+Nordeste,SE,Indígena,Superior completo,3
+Nordeste,SE,Indígena,Superior incompleto,2
+Nordeste,SE,Indígena,Médio incompleto,4
+Nordeste,SE,Amarela,Médio completo,2
+Nordeste,SE,Ignorada,Médio incompleto,1
+Nordeste,SE,Ignorada,Médio completo,1
+Nordeste,RN,Parda,Fundamental incompleto,5134
+Nordeste,RN,Preta,Fundamental incompleto,519
+Nordeste,RN,Parda,Médio completo,2621
+Nordeste,RN,Parda,Superior incompleto,515
+Nordeste,RN,Branca,Fundamental incompleto,2977
+Nordeste,RN,Branca,Superior completo,856
+Nordeste,RN,Branca,Superior incompleto,490
+Nordeste,RN,Preta,Superior incompleto,76
+Nordeste,RN,Parda,"Pós-graduação, mestrado ou doutorado",251
+Nordeste,RN,Amarela,Superior completo,11
+Nordeste,RN,Amarela,Médio incompleto,9
+Nordeste,RN,Ignorada,Fundamental incompleto,18
+Nordeste,RN,Ignorada,Sem instrução,7
+Nordeste,RN,Indígena,Fundamental incompleto,5
+Nordeste,RN,Ignorada,Superior completo,2
+Nordeste,RN,Indígena,"Pós-graduação, mestrado ou doutorado",3
+Nordeste,RN,Indígena,Superior completo,2
+Nordeste,RN,Indígena,Sem instrução,2
+Centro-Oeste,MS,Parda,Médio completo,2301
+Centro-Oeste,MS,Branca,Fundamental incompleto,3753
+Centro-Oeste,MS,Branca,Superior completo,1533
+Centro-Oeste,MS,Parda,Médio incompleto,1253
+Centro-Oeste,MS,Parda,Fundamental completo,873
+Centro-Oeste,MS,Parda,Superior incompleto,665
+Centro-Oeste,MS,Parda,Superior completo,867
+Centro-Oeste,MS,Amarela,Superior incompleto,14
+Centro-Oeste,MS,Amarela,Superior completo,81
+Centro-Oeste,MS,Preta,Sem instrução,170
+Centro-Oeste,MS,Preta,Fundamental completo,136
+Centro-Oeste,MS,Preta,Superior completo,161
+Centro-Oeste,MS,Amarela,"Pós-graduação, mestrado ou doutorado",23
+Centro-Oeste,MS,Amarela,Fundamental incompleto,40
+Centro-Oeste,MS,Indígena,Médio completo,18
+Centro-Oeste,MS,Indígena,Médio incompleto,6
+Centro-Oeste,MS,Indígena,Sem instrução,40
+Centro-Oeste,MS,Amarela,Fundamental completo,11
+Centro-Oeste,MS,Ignorada,Fundamental incompleto,1
+Centro-Oeste,MS,Indígena,Superior incompleto,11
+Nordeste,PI,Parda,Sem instrução,2792
+Nordeste,PI,Parda,Médio completo,3091
+Nordeste,PI,Parda,Fundamental completo,955
+Nordeste,PI,Branca,Sem instrução,845
+Nordeste,PI,Parda,Fundamental incompleto,6914
+Nordeste,PI,Branca,Fundamental completo,314
+Nordeste,PI,Branca,Superior completo,579
+Nordeste,PI,Preta,Fundamental incompleto,769
+Nordeste,PI,Preta,Médio completo,606
+Nordeste,PI,Preta,Fundamental completo,125
+Nordeste,PI,Branca,Superior incompleto,300
+Nordeste,PI,Parda,"Pós-graduação, mestrado ou doutorado",248
+Nordeste,PI,Branca,"Pós-graduação, mestrado ou doutorado",144
+Nordeste,PI,Indígena,Fundamental incompleto,7
+Nordeste,PI,Amarela,Sem instrução,3
+Nordeste,PI,Amarela,Médio completo,10
+Nordeste,PI,Indígena,Médio completo,3
+Nordeste,PI,Ignorada,Sem instrução,4
+Nordeste,PI,Ignorada,Médio completo,4
+Nordeste,PI,Amarela,Superior incompleto,1
+Nordeste,PI,Ignorada,Fundamental completo,1
+Norte,AM,Branca,Fundamental incompleto,1417
+Norte,AM,Parda,Sem instrução,2578
+Norte,AM,Parda,Médio completo,6506
+Norte,AM,Parda,Superior completo,1715
+Norte,AM,Parda,Fundamental completo,1081
+Norte,AM,Indígena,Médio incompleto,86
+Norte,AM,Indígena,Fundamental incompleto,330
+Norte,AM,Branca,Superior incompleto,362
+Norte,AM,Preta,Fundamental incompleto,353
+Norte,AM,Branca,Médio completo,1278
+Norte,AM,Preta,Médio incompleto,120
+Norte,AM,Parda,"Pós-graduação, mestrado ou doutorado",364
+Norte,AM,Amarela,Fundamental incompleto,41
+Norte,AM,Amarela,Sem instrução,6
+Norte,AM,Indígena,Superior completo,27
+Norte,AM,Preta,Superior incompleto,35
+Norte,AM,Preta,"Pós-graduação, mestrado ou doutorado",38
+Norte,AM,Amarela,"Pós-graduação, mestrado ou doutorado",9
+Norte,AM,Ignorada,Médio completo,1
+Norte,AM,Ignorada,Fundamental incompleto,1
+Nordeste,AL,Preta,Superior completo,99
+Nordeste,AL,Preta,Sem instrução,234
+Nordeste,AL,Parda,Sem instrução,3420
+Nordeste,AL,Parda,Fundamental incompleto,9805
+Nordeste,AL,Parda,Médio completo,4226
+Nordeste,AL,Parda,Fundamental completo,1120
+Nordeste,AL,Amarela,Médio completo,54
+Nordeste,AL,Branca,Sem instrução,1368
+Nordeste,AL,Parda,Superior incompleto,757
+Nordeste,AL,Parda,"Pós-graduação, mestrado ou doutorado",273
+Nordeste,AL,Branca,Fundamental completo,390
+Nordeste,AL,Preta,Fundamental completo,101
+Nordeste,AL,Indígena,Fundamental completo,16
+Nordeste,AL,Preta,"Pós-graduação, mestrado ou doutorado",43
+Nordeste,AL,Amarela,Superior completo,29
+Nordeste,AL,Indígena,Fundamental incompleto,74
+Nordeste,AL,Amarela,Médio incompleto,34
+Nordeste,AL,Amarela,Fundamental completo,13
+Nordeste,AL,Indígena,Sem instrução,23
+Centro-Oeste,GO,Branca,Superior completo,2125
+Centro-Oeste,GO,Parda,Fundamental incompleto,8246
+Centro-Oeste,GO,Branca,Fundamental incompleto,4606
+Centro-Oeste,GO,Branca,Fundamental completo,841
+Centro-Oeste,GO,Parda,Médio completo,5136
+Centro-Oeste,GO,Branca,Médio incompleto,1342
+Centro-Oeste,GO,Parda,Superior incompleto,1271
+Centro-Oeste,GO,Parda,Médio incompleto,2626
+Centro-Oeste,GO,Amarela,Médio completo,114
+Centro-Oeste,GO,Amarela,Superior completo,40
+Centro-Oeste,GO,Preta,Fundamental completo,222
+Centro-Oeste,GO,Indígena,Fundamental completo,4
+Centro-Oeste,GO,Amarela,Fundamental completo,11
+Centro-Oeste,GO,Indígena,"Pós-graduação, mestrado ou doutorado",3
+Centro-Oeste,GO,Indígena,Sem instrução,6
+Centro-Oeste,GO,Ignorada,Superior incompleto,2
+Centro-Oeste,GO,Amarela,"Pós-graduação, mestrado ou doutorado",6
+Nordeste,PB,Parda,Fundamental incompleto,6985
+Nordeste,PB,Parda,Fundamental completo,985
+Nordeste,PB,Branca,Fundamental incompleto,3750
+Nordeste,PB,Parda,Médio completo,3344
+Nordeste,PB,Branca,Superior incompleto,575
+Nordeste,PB,Parda,Médio incompleto,1577
+Nordeste,PB,Branca,Sem instrução,1527
+Nordeste,PB,Parda,Superior completo,1148
+Nordeste,PB,Branca,Superior completo,1147
+Nordeste,PB,Parda,"Pós-graduação, mestrado ou doutorado",230
+Nordeste,PB,Preta,Médio incompleto,161
+Nordeste,PB,Preta,Superior completo,131
+Nordeste,PB,Indígena,Médio completo,13
+Nordeste,PB,Indígena,Fundamental completo,3
+Nordeste,PB,Amarela,Médio incompleto,9
+Nordeste,PB,Indígena,Médio incompleto,6
+Nordeste,PB,Indígena,Fundamental incompleto,27
+Nordeste,PB,Indígena,Superior completo,6
+Nordeste,PB,Preta,"Pós-graduação, mestrado ou doutorado",21
+Nordeste,PB,Indígena,Sem instrução,9
+Nordeste,PB,Amarela,Superior completo,5
+Norte,PA,Branca,Médio incompleto,749
+Norte,PA,Parda,Superior completo,1453
+Norte,PA,Parda,"Pós-graduação, mestrado ou doutorado",353
+Norte,PA,Branca,Fundamental completo,387
+Norte,PA,Preta,"Pós-graduação, mestrado ou doutorado",29
+Norte,PA,Preta,Médio completo,640
+Norte,PA,Preta,Médio incompleto,358
+Norte,PA,Preta,Superior incompleto,134
+Norte,PA,Indígena,Médio completo,39
+Norte,PA,Amarela,Superior incompleto,18
+Norte,PA,Ignorada,Superior completo,1
+Norte,PA,Amarela,Sem instrução,3
+Norte,PA,Ignorada,Fundamental incompleto,1
+Centro-Oeste,MT,Parda,Superior completo,1469
+Centro-Oeste,MT,Parda,Sem instrução,2207
+Centro-Oeste,MT,Indígena,Fundamental incompleto,40
+Centro-Oeste,MT,Parda,Fundamental incompleto,6754
+Centro-Oeste,MT,Parda,Médio incompleto,2381
+Centro-Oeste,MT,Preta,Fundamental incompleto,907
+Centro-Oeste,MT,Parda,Superior incompleto,1055
+Centro-Oeste,MT,Preta,Sem instrução,319
+Centro-Oeste,MT,Branca,Sem instrução,1299
+Centro-Oeste,MT,Preta,"Pós-graduação, mestrado ou doutorado",55
+Centro-Oeste,MT,Preta,Superior incompleto,181
+Centro-Oeste,MT,Preta,Médio incompleto,314
+Centro-Oeste,MT,Amarela,Médio completo,45
+Centro-Oeste,MT,Amarela,Sem instrução,22
+Centro-Oeste,MT,Preta,Superior completo,285
+Centro-Oeste,MT,Amarela,Superior completo,49
+Centro-Oeste,MT,Amarela,Superior incompleto,17
+Centro-Oeste,MT,Amarela,"Pós-graduação, mestrado ou doutorado",12
+Centro-Oeste,MT,Ignorada,Médio completo,1
+Centro-Oeste,MT,Indígena,Médio completo,12
+Centro-Oeste,MT,Indígena,Superior incompleto,6
+Centro-Oeste,MT,Indígena,Médio incompleto,12
+Nordeste,BA,Preta,Médio completo,2680
+Nordeste,BA,Preta,Superior completo,712
+Nordeste,BA,Parda,Médio incompleto,3376
+Nordeste,BA,Parda,Superior incompleto,1032
+Nordeste,BA,Parda,Fundamental incompleto,11900
+Nordeste,BA,Branca,Fundamental incompleto,3548
+Nordeste,BA,Preta,Fundamental incompleto,3604
+Nordeste,BA,Preta,"Pós-graduação, mestrado ou doutorado",181
+Nordeste,BA,Parda,Superior completo,1633
+Nordeste,BA,Preta,Sem instrução,1129
+Nordeste,BA,Branca,Superior incompleto,351
+Nordeste,BA,Branca,Superior completo,714
+Nordeste,BA,Branca,Sem instrução,1299
+Nordeste,BA,Indígena,Fundamental incompleto,118
+Nordeste,BA,Amarela,Médio completo,63
+Nordeste,BA,Branca,"Pós-graduação, mestrado ou doutorado",214
+Nordeste,BA,Amarela,Fundamental incompleto,62
+Nordeste,BA,Amarela,Fundamental completo,5
+Nordeste,BA,Indígena,Superior completo,16
+Nordeste,PE,Parda,Fundamental incompleto,11377
+Nordeste,PE,Parda,Médio completo,6815
+Nordeste,PE,Parda,Sem instrução,3525
+Nordeste,PE,Parda,Médio incompleto,2948
+Nordeste,PE,Branca,Superior incompleto,940
+Nordeste,PE,Branca,Fundamental incompleto,5501
+Nordeste,PE,Branca,"Pós-graduação, mestrado ou doutorado",555
+Nordeste,PE,Branca,Superior completo,1863
+Nordeste,PE,Branca,Sem instrução,2156
+Nordeste,PE,Indígena,Superior completo,16
+Nordeste,PE,Preta,Superior completo,232
+Nordeste,PE,Preta,Sem instrução,390
+Nordeste,PE,Preta,Fundamental incompleto,1148
+Nordeste,PE,Preta,Fundamental completo,245
+Nordeste,PE,Amarela,Sem instrução,24
+Nordeste,PE,Indígena,Médio completo,40
+Nordeste,PE,Amarela,Superior completo,52
+Nordeste,PE,Amarela,Fundamental incompleto,99
+Nordeste,PE,Indígena,Médio incompleto,30
+Nordeste,PE,Amarela,Superior incompleto,16
+Nordeste,PE,Indígena,Sem instrução,12
+Nordeste,PE,Indígena,Superior incompleto,12
+Nordeste,PE,Ignorada,Fundamental incompleto,9
+Nordeste,PE,Ignorada,Médio completo,2
+Nordeste,PE,Ignorada,Superior completo,1
+Nordeste,CE,Parda,Superior completo,1863
+Nordeste,CE,Parda,Superior incompleto,1372
+Nordeste,CE,Branca,Superior incompleto,712
+Nordeste,CE,Parda,Fundamental incompleto,12815
+Nordeste,CE,Branca,Sem instrução,2082
+Nordeste,CE,Branca,Fundamental completo,680
+Nordeste,CE,Parda,Sem instrução,5185
+Nordeste,CE,Preta,Sem instrução,439
+Nordeste,CE,Preta,Médio incompleto,226
+Nordeste,CE,Amarela,Médio completo,35
+Nordeste,CE,Indígena,Sem instrução,20
+Nordeste,CE,Amarela,Fundamental incompleto,78
+Nordeste,CE,Indígena,Superior incompleto,3
+Nordeste,CE,Preta,Superior completo,160
+Nordeste,CE,Preta,"Pós-graduação, mestrado ou doutorado",27
+Nordeste,CE,Amarela,Fundamental completo,17
+Nordeste,CE,Amarela,Superior incompleto,3
+Nordeste,CE,Ignorada,Fundamental incompleto,22
+Nordeste,CE,Ignorada,Superior incompleto,4
+Nordeste,CE,Ignorada,Sem instrução,17
+Nordeste,CE,Amarela,Superior completo,15
+Nordeste,CE,Amarela,"Pós-graduação, mestrado ou doutorado",4
+Nordeste,CE,Amarela,Médio incompleto,12
+Nordeste,CE,Indígena,Superior completo,10
+Sul,PR,Parda,Médio completo,3530
+Sul,PR,Parda,Sem instrução,1749
+Sul,PR,Parda,Superior completo,930
+Sul,PR,Parda,Médio incompleto,1921
+Sul,PR,Branca,Médio completo,8877
+Sul,PR,Branca,Sem instrução,3572
+Sul,PR,Branca,"Pós-graduação, mestrado ou doutorado",1954
+Sul,PR,Branca,Fundamental completo,2867
+Sul,PR,Amarela,Médio completo,155
+Sul,PR,Parda,Fundamental completo,1342
+Sul,PR,Preta,Fundamental incompleto,515
+Sul,PR,Preta,Médio completo,517
+Sul,PR,Preta,Superior incompleto,88
+Sul,PR,Preta,Médio incompleto,151
+Sul,PR,Preta,Sem instrução,152
+Sul,PR,Indígena,Sem instrução,9
+Sul,PR,Ignorada,Médio incompleto,3
+Sul,PR,Ignorada,Sem instrução,3
+Sul,PR,Indígena,Fundamental completo,6
+Sudeste,ES,Parda,Superior completo,1454
+Sudeste,ES,Parda,Médio incompleto,2326
+Sudeste,ES,Parda,Sem instrução,2587
+Sudeste,ES,Branca,Fundamental incompleto,5646
+Sudeste,ES,Branca,Fundamental completo,1161
+Sudeste,ES,Preta,Fundamental completo,333
+Sudeste,ES,Preta,Médio completo,1348
+Sudeste,ES,Branca,"Pós-graduação, mestrado ou doutorado",1107
+Sudeste,ES,Preta,Médio incompleto,452
+Sudeste,ES,Preta,Superior incompleto,233
+Sudeste,ES,Amarela,Superior completo,26
+Sudeste,ES,Amarela,Fundamental incompleto,56
+Sudeste,ES,Amarela,Médio incompleto,29
+Sudeste,ES,Amarela,Médio completo,48
+Sudeste,ES,Amarela,Superior incompleto,13
+Sudeste,ES,Indígena,Superior completo,15
+Sudeste,ES,Indígena,Médio incompleto,23
+Sudeste,ES,Indígena,Fundamental completo,19
+Sudeste,ES,Indígena,Sem instrução,29
+Sudeste,ES,Amarela,Sem instrução,14
+Sudeste,ES,Indígena,"Pós-graduação, mestrado ou doutorado",3
+Sudeste,ES,Amarela,Fundamental completo,1
+Sudeste,ES,Amarela,"Pós-graduação, mestrado ou doutorado",1
+Nordeste,MA,Parda,Médio completo,8929
+Nordeste,MA,Branca,Médio incompleto,1085
+Nordeste,MA,Preta,Médio incompleto,706
+Nordeste,MA,Preta,Fundamental completo,395
+Nordeste,MA,Branca,Fundamental incompleto,3942
+Nordeste,MA,Amarela,Fundamental incompleto,105
+Nordeste,MA,Preta,Médio completo,1504
+Nordeste,MA,Branca,Médio completo,2399
+Nordeste,MA,Parda,"Pós-graduação, mestrado ou doutorado",418
+Nordeste,MA,Branca,Superior completo,746
+Nordeste,MA,Indígena,Sem instrução,43
+Nordeste,MA,Indígena,Fundamental incompleto,81
+Nordeste,MA,Indígena,Médio completo,47
+Nordeste,MA,Preta,Superior completo,335
+Nordeste,MA,Branca,Superior incompleto,534
+Nordeste,MA,Amarela,Sem instrução,50
+Nordeste,MA,Amarela,Fundamental completo,5
+Nordeste,MA,Indígena,Médio incompleto,31
+Nordeste,MA,Ignorada,Superior completo,1
+Nordeste,MA,Amarela,"Pós-graduação, mestrado ou doutorado",8
+Sul,SC,Branca,Superior completo,7143
+Sul,SC,Branca,"Pós-graduação, mestrado ou doutorado",2232
+Sul,SC,Parda,Sem instrução,826
+Sul,SC,Branca,Médio incompleto,4595
+Sul,SC,Parda,Fundamental incompleto,3534
+Sul,SC,Preta,Médio completo,464
+Sul,SC,Parda,Médio incompleto,1013
+Sul,SC,Preta,Fundamental incompleto,610
+Sul,SC,Preta,Sem instrução,177
+Sul,SC,Preta,Médio incompleto,193
+Sul,SC,Preta,Superior incompleto,123
+Sul,SC,Amarela,Médio completo,40
+Sul,SC,Preta,Superior completo,167
+Sul,SC,Indígena,Fundamental completo,18
+Sul,SC,Preta,Fundamental completo,201
+Sul,SC,Amarela,Sem instrução,7
+Sul,SC,Indígena,Médio incompleto,9
+Sul,SC,Amarela,Superior completo,37
+Sul,SC,Indígena,Sem instrução,2
+Sul,SC,Preta,"Pós-graduação, mestrado ou doutorado",29
+Sul,RS,Branca,Superior incompleto,3896
+Sul,RS,Branca,Médio incompleto,4312
+Sul,RS,Branca,Médio completo,11097
+Sul,RS,Branca,Fundamental completo,4133
+Sul,RS,Parda,Médio completo,1432
+Sul,RS,Parda,Fundamental incompleto,3571
+Sul,RS,Preta,Fundamental completo,301
+Sul,RS,Branca,"Pós-graduação, mestrado ou doutorado",2198
+Sul,RS,Preta,Fundamental incompleto,1149
+Sul,RS,Parda,Sem instrução,750
+Sul,RS,Parda,Superior incompleto,430
+Sul,RS,Amarela,Superior completo,17
+Sul,RS,Preta,Superior completo,179
+Sul,RS,Amarela,Fundamental completo,7
+Sul,RS,Amarela,Médio completo,18
+Sul,RS,Amarela,Superior incompleto,6
+Sul,RS,Ignorada,"Pós-graduação, mestrado ou doutorado",1
+Sul,RS,Amarela,Sem instrução,10
+Sul,RS,Indígena,Médio incompleto,13
+Sul,RS,Indígena,Superior incompleto,13
+Sul,RS,Indígena,Sem instrução,10
+Sudeste,RJ,Parda,Médio incompleto,3461
+Sudeste,RJ,Branca,Médio incompleto,2703
+Sudeste,RJ,Parda,Fundamental incompleto,10276
+Sudeste,RJ,Parda,Médio completo,10249
+Sudeste,RJ,Preta,Fundamental completo,1090
+Sudeste,RJ,Branca,Fundamental incompleto,8517
+Sudeste,RJ,Branca,Superior incompleto,3137
+Sudeste,RJ,Branca,Fundamental completo,3168
+Sudeste,RJ,Branca,Sem instrução,2912
+Sudeste,RJ,Parda,Superior completo,2942
+Sudeste,RJ,Preta,Superior incompleto,583
+Sudeste,RJ,Preta,Médio incompleto,975
+Sudeste,RJ,Branca,"Pós-graduação, mestrado ou doutorado",2278
+Sudeste,RJ,Parda,"Pós-graduação, mestrado ou doutorado",669
+Sudeste,RJ,Preta,Médio completo,3462
+Sudeste,RJ,Amarela,Fundamental incompleto,52
+Sudeste,RJ,Indígena,Superior completo,24
+Sudeste,RJ,Amarela,Fundamental completo,38
+Sudeste,RJ,Amarela,Superior incompleto,23
+Sudeste,RJ,Amarela,Médio incompleto,27
+Sudeste,RJ,Indígena,Médio completo,37
+Sudeste,RJ,Amarela,"Pós-graduação, mestrado ou doutorado",11
+Sudeste,RJ,Amarela,Superior completo,34
+Sudeste,SP,Branca,Fundamental incompleto,15422
+Sudeste,SP,Branca,Superior incompleto,3707
+Sudeste,SP,Amarela,Médio completo,355
+Sudeste,SP,Amarela,Médio incompleto,86
+Sudeste,SP,Parda,Médio completo,8229
+Sudeste,SP,Parda,Superior completo,1999
+Sudeste,SP,Amarela,Sem instrução,75
+Sudeste,SP,Branca,Fundamental completo,4610
+Sudeste,SP,Indígena,Fundamental incompleto,34
+Sudeste,SP,Amarela,Fundamental completo,124
+Sudeste,SP,Amarela,Superior incompleto,145
+Sudeste,SP,Parda,"Pós-graduação, mestrado ou doutorado",276
+Sudeste,SP,Indígena,Médio incompleto,21
+Sudeste,SP,Preta,"Pós-graduação, mestrado ou doutorado",91
+Sudeste,SP,Indígena,Sem instrução,16
+Sudeste,SP,Indígena,Fundamental completo,7
+Sudeste,SP,Ignorada,Médio completo,4
+Sudeste,SP,Amarela,"Pós-graduação, mestrado ou doutorado",93
+Sudeste,SP,Indígena,Superior incompleto,2
+Sudeste,SP,Ignorada,"Pós-graduação, mestrado ou doutorado",3
+Sudeste,MG,Branca,Superior completo,5132
+Sudeste,MG,Parda,Médio completo,10684
+Sudeste,MG,Branca,Fundamental incompleto,13489
+Sudeste,MG,Branca,"Pós-graduação, mestrado ou doutorado",1489
+Sudeste,MG,Branca,Médio completo,8444
+Sudeste,MG,Parda,Fundamental completo,3607
+Sudeste,MG,Parda,Superior incompleto,1800
+Sudeste,MG,Preta,Fundamental incompleto,4477
+Sudeste,MG,Parda,"Pós-graduação, mestrado ou doutorado",787
+Sudeste,MG,Preta,Sem instrução,1086
+Sudeste,MG,Indígena,Médio completo,26
+Sudeste,MG,Preta,Superior incompleto,437
+Sudeste,MG,Amarela,Fundamental incompleto,112
+Sudeste,MG,Ignorada,Fundamental incompleto,5
+Sudeste,MG,Ignorada,Fundamental completo,1
+Sudeste,MG,Amarela,Fundamental completo,21
+Sudeste,MG,Amarela,Médio completo,64
+Sudeste,MG,Amarela,Superior completo,34
+Sudeste,MG,Amarela,Sem instrução,21
+Sudeste,MG,Indígena,Fundamental incompleto,45
+Sudeste,MG,Indígena,Médio incompleto,4
+Sudeste,MG,Ignorada,Sem instrução,1
+Sudeste,MG,Ignorada,Médio completo,3
+Norte,AP,Parda,Superior incompleto,390
+Norte,AP,Preta,Médio completo,139
+Norte,AP,Branca,Médio completo,366
+Norte,AP,Parda,Médio incompleto,573
+Norte,AP,Parda,Médio completo,1495
+Norte,AP,Parda,Superior completo,511
+Norte,AP,Branca,"Pós-graduação, mestrado ou doutorado",61
+Norte,AP,Preta,Superior completo,89
+Norte,AP,Branca,Sem instrução,192
+Norte,AP,Preta,Médio incompleto,51
+Norte,AP,Preta,"Pós-graduação, mestrado ou doutorado",21
+Norte,AP,Amarela,Médio completo,8
+Norte,AP,Amarela,Médio incompleto,3
+Norte,AP,Amarela,Fundamental incompleto,3
+Norte,AC,Parda,Fundamental incompleto,4120
+Norte,AC,Parda,Fundamental completo,808
+Norte,AC,Parda,Médio completo,3078
+Norte,AC,Branca,Médio incompleto,344
+Norte,AC,Parda,Superior completo,1273
+Norte,AC,Parda,"Pós-graduação, mestrado ou doutorado",329
+Norte,AC,Preta,Fundamental incompleto,379
+Norte,AC,Preta,Sem instrução,126
+Norte,AC,Preta,Médio completo,302
+Norte,AC,Branca,Fundamental completo,209
+Norte,AC,Preta,Fundamental completo,86
+Norte,AC,Amarela,Fundamental incompleto,28
+Norte,AC,Indígena,"Pós-graduação, mestrado ou doutorado",6
+Norte,AC,Indígena,Médio completo,15
+Norte,AC,Indígena,Sem instrução,9
+Norte,AC,Indígena,Superior completo,2
+Norte,AC,Indígena,Fundamental incompleto,19
+Norte,AC,Indígena,Fundamental completo,11
+Norte,AC,Amarela,Superior completo,2
+Norte,RO,Parda,Fundamental incompleto,3869
+Norte,RO,Parda,Médio completo,2254
+Norte,RO,Preta,Médio incompleto,110
+Norte,RO,Parda,Superior completo,624
+Norte,RO,Parda,Médio incompleto,1063
+Norte,RO,Branca,Superior completo,527
+Norte,RO,Preta,Fundamental incompleto,464
+Norte,RO,Preta,Superior completo,112
+Norte,RO,Parda,Superior incompleto,591
+Norte,RO,Branca,Superior incompleto,270
+Norte,RO,Preta,Médio completo,264
+Norte,RO,Preta,"Pós-graduação, mestrado ou doutorado",24
+Norte,RO,Amarela,Fundamental incompleto,58
+Norte,RO,Amarela,Superior completo,6
+Norte,RO,Indígena,Fundamental incompleto,16
+Norte,RR,Branca,Superior incompleto,219
+Norte,RR,Branca,Superior completo,427
+Norte,RR,Parda,Sem instrução,1373
+Norte,RR,Parda,Fundamental incompleto,3048
+Norte,RR,Parda,Médio completo,3144
+Norte,RR,Branca,Médio completo,885
+Norte,RR,Parda,Fundamental completo,462
+Norte,RR,Preta,Superior completo,140
+Norte,RR,Indígena,Superior incompleto,22
+Norte,RR,Indígena,Fundamental completo,46
+Norte,RR,Indígena,Fundamental incompleto,239
+Norte,RR,Preta,"Pós-graduação, mestrado ou doutorado",24
+Norte,RR,Ignorada,Fundamental incompleto,1
+Norte,RR,Ignorada,Fundamental completo,1
+Norte,RR,Indígena,Médio incompleto,76
+Norte,RR,Amarela,Médio incompleto,11
+Norte,RR,Indígena,Superior completo,49
+Norte,RR,Amarela,Sem instrução,6
+Norte,RR,Amarela,Fundamental incompleto,13
+Norte,RR,Amarela,Superior incompleto,6
+Norte,RR,Amarela,"Pós-graduação, mestrado ou doutorado",6
+Centro-Oeste,DF,Branca,Médio completo,1514
+Centro-Oeste,DF,Branca,Superior incompleto,639
+Centro-Oeste,DF,Parda,Fundamental incompleto,2584
+Centro-Oeste,DF,Parda,Sem instrução,787
+Centro-Oeste,DF,Parda,Fundamental completo,585
+Centro-Oeste,DF,Preta,Superior completo,368
+Centro-Oeste,DF,Preta,Superior incompleto,168
+Centro-Oeste,DF,Parda,"Pós-graduação, mestrado ou doutorado",368
+Centro-Oeste,DF,Amarela,Sem instrução,9
+Centro-Oeste,DF,Preta,Médio completo,542
+Centro-Oeste,DF,Preta,"Pós-graduação, mestrado ou doutorado",45
+Centro-Oeste,DF,Branca,"Pós-graduação, mestrado ou doutorado",642
+Centro-Oeste,DF,Amarela,"Pós-graduação, mestrado ou doutorado",33
+Centro-Oeste,DF,Amarela,Superior completo,41
+Centro-Oeste,DF,Amarela,Superior incompleto,12
+Centro-Oeste,DF,Ignorada,"Pós-graduação, mestrado ou doutorado",6
+Centro-Oeste,DF,Ignorada,Sem instrução,7
+Centro-Oeste,DF,Indígena,Médio incompleto,5
+Centro-Oeste,DF,Amarela,Médio incompleto,8
+Centro-Oeste,DF,Indígena,Fundamental completo,8
+Centro-Oeste,DF,Indígena,Superior completo,6
+Centro-Oeste,DF,Ignorada,Médio completo,3
+Centro-Oeste,DF,Ignorada,Médio incompleto,1
+Norte,TO,Preta,Fundamental incompleto,530
+Norte,TO,Parda,Superior completo,746
+Norte,TO,Preta,Fundamental completo,96
+Norte,TO,Parda,Sem instrução,1262
+Norte,TO,Parda,Médio incompleto,1007
+Norte,TO,Branca,Médio completo,716
+Norte,TO,Branca,Fundamental incompleto,997
+Norte,TO,Branca,Fundamental completo,193
+Norte,TO,Branca,Superior incompleto,256
+Norte,TO,Preta,Médio completo,356
+Norte,TO,Preta,Médio incompleto,175
+Norte,TO,Indígena,Superior incompleto,5
+Norte,TO,Preta,Superior completo,140
+Norte,TO,Indígena,Médio incompleto,8
+Norte,TO,Amarela,Médio completo,20
+Norte,TO,Amarela,Sem instrução,6
+Norte,TO,Preta,Superior incompleto,59
+Norte,TO,Indígena,Superior completo,3
+Norte,TO,Amarela,Superior completo,9
+Norte,TO,Ignorada,Médio completo,2
+Norte,TO,Ignorada,Médio incompleto,2
+Norte,TO,Ignorada,Fundamental incompleto,5
+Norte,TO,Amarela,"Pós-graduação, mestrado ou doutorado",2
+Norte,TO,Ignorada,Sem instrução,3
+Nordeste,SE,Preta,Sem instrução,277
+Nordeste,SE,Parda,Médio incompleto,1479
+Nordeste,SE,Parda,Fundamental incompleto,7295
+Nordeste,SE,Parda,Médio completo,2982
+Nordeste,SE,Parda,Sem instrução,2529
+Nordeste,SE,Branca,Médio completo,927
+Nordeste,SE,Branca,Médio incompleto,448
+Nordeste,SE,Branca,Superior completo,521
+Nordeste,SE,Preta,Superior incompleto,152
+Nordeste,SE,Parda,Fundamental completo,612
+Nordeste,SE,Preta,Médio incompleto,195
+Nordeste,SE,Preta,Superior completo,165
+Nordeste,SE,Indígena,Fundamental incompleto,14
+Nordeste,SE,Amarela,Sem instrução,4
+Nordeste,SE,Amarela,Superior completo,3
+Nordeste,SE,Ignorada,Fundamental incompleto,5
+Nordeste,SE,Ignorada,Sem instrução,1
+Nordeste,SE,Indígena,Fundamental completo,1
+Nordeste,RN,Parda,Fundamental completo,680
+Nordeste,RN,Branca,Fundamental completo,457
+Nordeste,RN,Preta,Médio completo,346
+Nordeste,RN,Parda,Sem instrução,1561
+Nordeste,RN,Branca,Médio completo,1925
+Nordeste,RN,Parda,Superior completo,736
+Nordeste,RN,Parda,Médio incompleto,1463
+Nordeste,RN,Branca,Sem instrução,1223
+Nordeste,RN,Branca,Médio incompleto,800
+Nordeste,RN,Preta,Superior completo,105
+Nordeste,RN,Preta,Médio incompleto,147
+Nordeste,RN,Branca,"Pós-graduação, mestrado ou doutorado",273
+Nordeste,RN,Preta,Fundamental completo,85
+Nordeste,RN,Preta,Sem instrução,172
+Nordeste,RN,Preta,"Pós-graduação, mestrado ou doutorado",17
+Nordeste,RN,Amarela,Médio completo,6
+Nordeste,RN,Indígena,Médio completo,10
+Nordeste,RN,Indígena,Fundamental completo,6
+Nordeste,RN,Amarela,Fundamental incompleto,21
+Nordeste,RN,Amarela,Fundamental completo,5
+Nordeste,RN,Amarela,Sem instrução,3
+Nordeste,RN,Amarela,Superior incompleto,4
+Nordeste,RN,Ignorada,Médio incompleto,2
+Nordeste,RN,Ignorada,Superior incompleto,2
+Nordeste,RN,Ignorada,Médio completo,1
+Nordeste,RN,Indígena,Médio incompleto,4
+Centro-Oeste,MS,Parda,Fundamental incompleto,4841
+Centro-Oeste,MS,Branca,Médio completo,2115
+Centro-Oeste,MS,Branca,Superior incompleto,855
+Centro-Oeste,MS,Parda,Sem instrução,1465
+Centro-Oeste,MS,Branca,Sem instrução,1240
+Centro-Oeste,MS,Branca,Médio incompleto,916
+Centro-Oeste,MS,Branca,Fundamental completo,773
+Centro-Oeste,MS,Preta,Médio incompleto,175
+Centro-Oeste,MS,Preta,Fundamental incompleto,535
+Centro-Oeste,MS,Parda,"Pós-graduação, mestrado ou doutorado",269
+Centro-Oeste,MS,Preta,"Pós-graduação, mestrado ou doutorado",55
+Centro-Oeste,MS,Amarela,Médio incompleto,32
+Centro-Oeste,MS,Preta,Médio completo,340
+Centro-Oeste,MS,Branca,"Pós-graduação, mestrado ou doutorado",629
+Centro-Oeste,MS,Preta,Superior incompleto,103
+Centro-Oeste,MS,Indígena,Fundamental completo,5
+Centro-Oeste,MS,Indígena,Fundamental incompleto,75
+Centro-Oeste,MS,Amarela,Sem instrução,15
+Centro-Oeste,MS,Indígena,Superior completo,11
+Centro-Oeste,MS,Amarela,Médio completo,28
+Nordeste,PI,Preta,Sem instrução,316
+Nordeste,PI,Branca,Fundamental incompleto,1821
+Nordeste,PI,Branca,Médio incompleto,451
+Nordeste,PI,Parda,Médio incompleto,1510
+Nordeste,PI,Preta,Superior completo,179
+Nordeste,PI,Branca,Médio completo,930
+Nordeste,PI,Parda,Superior completo,1131
+Nordeste,PI,Preta,Médio incompleto,216
+Nordeste,PI,Parda,Superior incompleto,670
+Nordeste,PI,Preta,Superior incompleto,145
+Nordeste,PI,Indígena,Sem instrução,4
+Nordeste,PI,Preta,"Pós-graduação, mestrado ou doutorado",35
+Nordeste,PI,Amarela,Fundamental incompleto,7
+Nordeste,PI,Amarela,Superior completo,1
+Nordeste,PI,Ignorada,Fundamental incompleto,5
+Nordeste,PI,Ignorada,Superior completo,1
+Norte,AM,Parda,Fundamental incompleto,7887
+Norte,AM,Branca,Médio incompleto,514
+Norte,AM,Preta,Médio completo,312
+Norte,AM,Parda,Médio incompleto,2637
+Norte,AM,Preta,Superior completo,92
+Norte,AM,Parda,Superior incompleto,1193
+Norte,AM,Amarela,Médio completo,43
+Norte,AM,Branca,Sem instrução,681
+Norte,AM,Branca,Fundamental completo,204
+Norte,AM,Preta,Fundamental completo,53
+Norte,AM,Branca,Superior completo,700
+Norte,AM,Branca,"Pós-graduação, mestrado ou doutorado",209
+Norte,AM,Preta,Sem instrução,106
+Norte,AM,Indígena,Sem instrução,97
+Norte,AM,Indígena,Médio completo,149
+Norte,AM,Indígena,"Pós-graduação, mestrado ou doutorado",15
+Norte,AM,Amarela,Médio incompleto,17
+Norte,AM,Amarela,Superior completo,23
+Norte,AM,Indígena,Fundamental completo,28
+Norte,AM,Indígena,Superior incompleto,23
+Norte,AM,Amarela,Fundamental completo,9
+Norte,AM,Amarela,Superior incompleto,11
+Norte,AM,Ignorada,Sem instrução,4
+Nordeste,AL,Preta,Médio completo,369
+Nordeste,AL,Branca,Médio completo,1594
+Nordeste,AL,Parda,Superior completo,1172
+Nordeste,AL,Parda,Médio incompleto,2258
+Nordeste,AL,Branca,Fundamental incompleto,3489
+Nordeste,AL,Amarela,Fundamental incompleto,131
+Nordeste,AL,Preta,Fundamental incompleto,761
+Nordeste,AL,Preta,Médio incompleto,230
+Nordeste,AL,Branca,"Pós-graduação, mestrado ou doutorado",193
+Nordeste,AL,Branca,Superior incompleto,423
+Nordeste,AL,Branca,Médio incompleto,816
+Nordeste,AL,Branca,Superior completo,678
+Nordeste,AL,Preta,Superior incompleto,78
+Nordeste,AL,Amarela,"Pós-graduação, mestrado ou doutorado",3
+Nordeste,AL,Amarela,Sem instrução,41
+Nordeste,AL,Indígena,Médio completo,57
+Nordeste,AL,Amarela,Superior incompleto,16
+Nordeste,AL,Indígena,Superior completo,18
+Nordeste,AL,Indígena,Médio incompleto,27
+Nordeste,AL,Indígena,Superior incompleto,14
+Nordeste,AL,Indígena,"Pós-graduação, mestrado ou doutorado",3
+Centro-Oeste,GO,Branca,Médio completo,3186
+Centro-Oeste,GO,Branca,Superior incompleto,1065
+Centro-Oeste,GO,Branca,Sem instrução,1513
+Centro-Oeste,GO,Parda,"Pós-graduação, mestrado ou doutorado",436
+Centro-Oeste,GO,Branca,"Pós-graduação, mestrado ou doutorado",607
+Centro-Oeste,GO,Parda,Sem instrução,2072
+Centro-Oeste,GO,Preta,Superior incompleto,172
+Centro-Oeste,GO,Preta,Fundamental incompleto,1054
+Centro-Oeste,GO,Preta,Médio completo,818
+Centro-Oeste,GO,Parda,Fundamental completo,1417
+Centro-Oeste,GO,Parda,Superior completo,1761
+Centro-Oeste,GO,Preta,Sem instrução,273
+Centro-Oeste,GO,Amarela,Sem instrução,38
+Centro-Oeste,GO,Preta,Médio incompleto,323
+Centro-Oeste,GO,Preta,Superior completo,328
+Centro-Oeste,GO,Amarela,Médio incompleto,54
+Centro-Oeste,GO,Amarela,Fundamental incompleto,68
+Centro-Oeste,GO,Preta,"Pós-graduação, mestrado ou doutorado",91
+Centro-Oeste,GO,Indígena,Fundamental incompleto,36
+Centro-Oeste,GO,Indígena,Superior completo,4
+Centro-Oeste,GO,Indígena,Médio completo,20
+Centro-Oeste,GO,Amarela,Superior incompleto,25
+Centro-Oeste,GO,Ignorada,Fundamental incompleto,1
+Centro-Oeste,GO,Indígena,Superior incompleto,6
+Centro-Oeste,GO,Indígena,Médio incompleto,8
+Nordeste,PB,Parda,Sem instrução,2284
+Nordeste,PB,Preta,Fundamental incompleto,600
+Nordeste,PB,Branca,Médio completo,1812
+Nordeste,PB,Branca,Médio incompleto,895
+Nordeste,PB,Parda,Superior incompleto,727
+Nordeste,PB,Branca,Fundamental completo,550
+Nordeste,PB,Preta,Médio completo,399
+Nordeste,PB,Preta,Sem instrução,186
+Nordeste,PB,Preta,Superior incompleto,100
+Nordeste,PB,Preta,Fundamental completo,111
+Nordeste,PB,Branca,"Pós-graduação, mestrado ou doutorado",286
+Nordeste,PB,Amarela,Fundamental completo,8
+Nordeste,PB,Amarela,Fundamental incompleto,45
+Nordeste,PB,Amarela,Médio completo,22
+Nordeste,PB,Amarela,Sem instrução,3
+Norte,PA,Parda,Médio incompleto,2838
+Norte,PA,Parda,Fundamental incompleto,9770
+Norte,PA,Parda,Médio completo,5689
+Norte,PA,Branca,Médio completo,1511
+Norte,PA,Preta,Fundamental incompleto,1029
+Norte,PA,Amarela,Fundamental incompleto,69
+Norte,PA,Branca,Superior incompleto,364
+Norte,PA,Parda,Sem instrução,2605
+Norte,PA,Parda,Superior incompleto,1083
+Norte,PA,Branca,Fundamental incompleto,2412
+Norte,PA,Branca,Sem instrução,900
+Norte,PA,Amarela,Médio incompleto,20
+Norte,PA,Preta,Sem instrução,251
+Norte,PA,Parda,Fundamental completo,1528
+Norte,PA,Amarela,Médio completo,59
+Norte,PA,Branca,Superior completo,746
+Norte,PA,Indígena,Sem instrução,18
+Norte,PA,Preta,Fundamental completo,174
+Norte,PA,Branca,"Pós-graduação, mestrado ou doutorado",150
+Norte,PA,Preta,Superior completo,203
+Norte,PA,Indígena,Médio incompleto,34
+Norte,PA,Indígena,Superior completo,14
+Norte,PA,Indígena,Fundamental incompleto,58
+Norte,PA,Amarela,Fundamental completo,9
+Norte,PA,Amarela,Superior completo,36
+Norte,PA,Indígena,Fundamental completo,16
+Norte,PA,Indígena,"Pós-graduação, mestrado ou doutorado",3
+Norte,PA,Amarela,"Pós-graduação, mestrado ou doutorado",3
+Norte,PA,Indígena,Superior incompleto,7
+Centro-Oeste,MT,Parda,Médio completo,4192
+Centro-Oeste,MT,Branca,Médio incompleto,988
+Centro-Oeste,MT,Branca,Fundamental incompleto,3545
+Centro-Oeste,MT,Branca,Médio completo,2193
+Centro-Oeste,MT,Preta,Fundamental completo,217
+Centro-Oeste,MT,Parda,Fundamental completo,1178
+Centro-Oeste,MT,Preta,Médio completo,682
+Centro-Oeste,MT,Branca,Superior incompleto,631
+Centro-Oeste,MT,Branca,Superior completo,1525
+Centro-Oeste,MT,Branca,Fundamental completo,701
+Centro-Oeste,MT,Parda,"Pós-graduação, mestrado ou doutorado",360
+Centro-Oeste,MT,Branca,"Pós-graduação, mestrado ou doutorado",348
+Centro-Oeste,MT,Indígena,Sem instrução,24
+Centro-Oeste,MT,Amarela,Fundamental incompleto,73
+Centro-Oeste,MT,Amarela,Fundamental completo,5
+Centro-Oeste,MT,Indígena,Superior completo,22
+Centro-Oeste,MT,Ignorada,Médio incompleto,1
+Centro-Oeste,MT,Ignorada,"Pós-graduação, mestrado ou doutorado",1
+Centro-Oeste,MT,Amarela,Médio incompleto,22
+Centro-Oeste,MT,Indígena,"Pós-graduação, mestrado ou doutorado",1
+Centro-Oeste,MT,Indígena,Fundamental completo,5
+Nordeste,BA,Preta,Médio incompleto,1269
+Nordeste,BA,Parda,Médio completo,6660
+Nordeste,BA,Branca,Médio completo,1846
+Nordeste,BA,Parda,Fundamental completo,1636
+Nordeste,BA,Preta,Fundamental completo,604
+Nordeste,BA,Branca,Médio incompleto,821
+Nordeste,BA,Preta,Superior incompleto,483
+Nordeste,BA,Parda,"Pós-graduação, mestrado ou doutorado",356
+Nordeste,BA,Parda,Sem instrução,4277
+Nordeste,BA,Branca,Fundamental completo,516
+Nordeste,BA,Indígena,Sem instrução,35
+Nordeste,BA,Indígena,Médio completo,38
+Nordeste,BA,Amarela,Sem instrução,33
+Nordeste,BA,Indígena,Fundamental completo,22
+Nordeste,BA,Amarela,Superior completo,10
+Nordeste,BA,Amarela,Médio incompleto,30
+Nordeste,BA,Amarela,Superior incompleto,6
+Nordeste,BA,Indígena,Médio incompleto,25
+Nordeste,BA,Indígena,"Pós-graduação, mestrado ou doutorado",5
+Nordeste,BA,Ignorada,Fundamental completo,1
+Nordeste,PE,Branca,Médio completo,3594
+Nordeste,PE,Parda,Fundamental completo,1651
+Nordeste,PE,Branca,Fundamental completo,818
+Nordeste,PE,Parda,"Pós-graduação, mestrado ou doutorado",546
+Nordeste,PE,Preta,Médio incompleto,370
+Nordeste,PE,Parda,Superior completo,1742
+Nordeste,PE,Branca,Médio incompleto,1427
+Nordeste,PE,Preta,Médio completo,1089
+Nordeste,PE,Parda,Superior incompleto,1138
+Nordeste,PE,Indígena,Fundamental completo,20
+Nordeste,PE,Indígena,Fundamental incompleto,60
+Nordeste,PE,Amarela,Médio completo,73
+Nordeste,PE,Preta,Superior incompleto,145
+Nordeste,PE,Preta,"Pós-graduação, mestrado ou doutorado",71
+Nordeste,PE,Amarela,Fundamental completo,20
+Nordeste,PE,Amarela,"Pós-graduação, mestrado ou doutorado",21
+Nordeste,PE,Amarela,Médio incompleto,18
+Nordeste,CE,Parda,"Pós-graduação, mestrado ou doutorado",547
+Nordeste,CE,Branca,Superior completo,1170
+Nordeste,CE,Branca,"Pós-graduação, mestrado ou doutorado",431
+Nordeste,CE,Branca,Médio completo,2758
+Nordeste,CE,Branca,Fundamental incompleto,4508
+Nordeste,CE,Parda,Médio completo,7105
+Nordeste,CE,Branca,Médio incompleto,1145
+Nordeste,CE,Parda,Médio incompleto,3258
+Nordeste,CE,Preta,Fundamental incompleto,758
+Nordeste,CE,Parda,Fundamental completo,2106
+Nordeste,CE,Preta,Médio completo,500
+Nordeste,CE,Amarela,Sem instrução,28
+Nordeste,CE,Indígena,Fundamental incompleto,66
+Nordeste,CE,Indígena,Médio incompleto,20
+Nordeste,CE,Indígena,Médio completo,35
+Nordeste,CE,Preta,Fundamental completo,175
+Nordeste,CE,Preta,Superior incompleto,102
+Nordeste,CE,Indígena,Fundamental completo,7
+Nordeste,CE,Ignorada,Médio completo,5
+Nordeste,CE,Indígena,"Pós-graduação, mestrado ou doutorado",3
+Nordeste,CE,Ignorada,Fundamental completo,3
+Nordeste,CE,Ignorada,Médio incompleto,5
+Sul,PR,Parda,Fundamental incompleto,6511
+Sul,PR,Branca,Superior incompleto,2531
+Sul,PR,Branca,Superior completo,5630
+Sul,PR,Branca,Fundamental incompleto,11628
+Sul,PR,Parda,Superior incompleto,761
+Sul,PR,Branca,Médio incompleto,3329
+Sul,PR,Amarela,Fundamental incompleto,190
+Sul,PR,Preta,Fundamental completo,159
+Sul,PR,Amarela,Superior completo,100
+Sul,PR,Amarela,Sem instrução,39
+Sul,PR,Parda,"Pós-graduação, mestrado ou doutorado",249
+Sul,PR,Indígena,Fundamental incompleto,35
+Sul,PR,Preta,Superior completo,162
+Sul,PR,Preta,"Pós-graduação, mestrado ou doutorado",44
+Sul,PR,Amarela,"Pós-graduação, mestrado ou doutorado",42
+Sul,PR,Indígena,Médio completo,38
+Sul,PR,Amarela,Fundamental completo,52
+Sul,PR,Amarela,Superior incompleto,70
+Sul,PR,Amarela,Médio incompleto,53
+Sul,PR,Indígena,Médio incompleto,9
+Sul,PR,Indígena,Superior completo,11
+Sudeste,ES,Branca,Médio completo,3816
+Sudeste,ES,Parda,"Pós-graduação, mestrado ou doutorado",615
+Sudeste,ES,Branca,Superior completo,2250
+Sudeste,ES,Branca,Superior incompleto,1100
+Sudeste,ES,Parda,Médio completo,5908
+Sudeste,ES,Parda,Superior incompleto,936
+Sudeste,ES,Parda,Fundamental incompleto,8688
+Sudeste,ES,Branca,Sem instrução,1722
+Sudeste,ES,Preta,Superior completo,256
+Sudeste,ES,Parda,Fundamental completo,1637
+Sudeste,ES,Branca,Médio incompleto,1196
+Sudeste,ES,Preta,Fundamental incompleto,1800
+Sudeste,ES,Preta,Sem instrução,416
+Sudeste,ES,Indígena,Médio completo,68
+Sudeste,ES,Indígena,Fundamental incompleto,50
+Sudeste,ES,Preta,"Pós-graduação, mestrado ou doutorado",128
+Sudeste,ES,Ignorada,Médio completo,1
+Nordeste,MA,Preta,Fundamental incompleto,2684
+Nordeste,MA,Parda,Fundamental incompleto,17274
+Nordeste,MA,Parda,Médio incompleto,4436
+Nordeste,MA,Parda,Sem instrução,6361
+Nordeste,MA,Amarela,Médio incompleto,56
+Nordeste,MA,Branca,Sem instrução,1738
+Nordeste,MA,Preta,Sem instrução,1006
+Nordeste,MA,Parda,Superior incompleto,1247
+Nordeste,MA,Parda,Superior completo,1621
+Nordeste,MA,Parda,Fundamental completo,2101
+Nordeste,MA,Branca,Fundamental completo,556
+Nordeste,MA,Branca,"Pós-graduação, mestrado ou doutorado",228
+Nordeste,MA,Preta,"Pós-graduação, mestrado ou doutorado",138
+Nordeste,MA,Amarela,Médio completo,79
+Nordeste,MA,Amarela,Superior completo,22
+Nordeste,MA,Preta,Superior incompleto,265
+Nordeste,MA,Indígena,Fundamental completo,14
+Nordeste,MA,Ignorada,Médio completo,2
+Nordeste,MA,Amarela,Superior incompleto,4
+Nordeste,MA,Indígena,Superior completo,4
+Sul,SC,Branca,Superior incompleto,3944
+Sul,SC,Branca,Fundamental incompleto,17856
+Sul,SC,Branca,Médio completo,13083
+Sul,SC,Parda,Médio completo,1962
+Sul,SC,Branca,Sem instrução,4489
+Sul,SC,Branca,Fundamental completo,5823
+Sul,SC,Parda,Fundamental completo,1017
+Sul,SC,Parda,Superior completo,572
+Sul,SC,Parda,"Pós-graduação, mestrado ou doutorado",162
+Sul,SC,Parda,Superior incompleto,476
+Sul,SC,Amarela,Superior incompleto,17
+Sul,SC,Amarela,Fundamental incompleto,60
+Sul,SC,Amarela,Fundamental completo,17
+Sul,SC,Indígena,Fundamental incompleto,29
+Sul,SC,Ignorada,Fundamental incompleto,3
+Sul,SC,Ignorada,Sem instrução,4
+Sul,SC,Ignorada,Superior completo,2
+Sul,SC,Indígena,Superior completo,11
+Sul,SC,Indígena,Médio completo,8
+Sul,SC,Indígena,Superior incompleto,11
+Sul,SC,Amarela,Médio incompleto,16
+Sul,SC,Amarela,"Pós-graduação, mestrado ou doutorado",3
+Sul,SC,Ignorada,Médio incompleto,2
+Sul,SC,Ignorada,Médio completo,3
+Sul,RS,Branca,Fundamental incompleto,19037
+Sul,RS,Branca,Sem instrução,4011
+Sul,RS,Branca,Superior completo,5922
+Sul,RS,Parda,Fundamental completo,715
+Sul,RS,Parda,Superior completo,393
+Sul,RS,Preta,Médio completo,853
+Sul,RS,Preta,Sem instrução,259
+Sul,RS,Preta,Médio incompleto,386
+Sul,RS,Parda,Médio incompleto,866
+Sul,RS,Parda,"Pós-graduação, mestrado ou doutorado",118
+Sul,RS,Preta,Superior incompleto,214
+Sul,RS,Indígena,Superior completo,7
+Sul,RS,Preta,"Pós-graduação, mestrado ou doutorado",40
+Sul,RS,Indígena,Fundamental incompleto,43
+Sul,RS,Indígena,Médio completo,19
+Sul,RS,Amarela,"Pós-graduação, mestrado ou doutorado",6
+Sul,RS,Ignorada,Médio incompleto,1
+Sul,RS,Ignorada,Superior incompleto,1
+Sul,RS,Indígena,Fundamental completo,7
+Sul,RS,Ignorada,Fundamental incompleto,3
+Sul,RS,Ignorada,Superior completo,2
+Sudeste,RJ,Parda,Fundamental completo,3029
+Sudeste,RJ,Preta,Sem instrução,651
+Sudeste,RJ,Preta,Fundamental incompleto,2993
+Sudeste,RJ,Parda,Superior incompleto,1818
+Sudeste,RJ,Branca,Médio completo,10384
+Sudeste,RJ,Parda,Sem instrução,2737
+Sudeste,RJ,Branca,Superior completo,7829
+Sudeste,RJ,Preta,"Pós-graduação, mestrado ou doutorado",201
+Sudeste,RJ,Preta,Superior completo,880
+Sudeste,RJ,Indígena,Superior incompleto,15
+Sudeste,RJ,Indígena,"Pós-graduação, mestrado ou doutorado",28
+Sudeste,RJ,Indígena,Médio incompleto,6
+Sudeste,RJ,Indígena,Fundamental incompleto,51
+Sudeste,RJ,Amarela,Médio completo,73
+Sudeste,RJ,Indígena,Fundamental completo,24
+Sudeste,RJ,Amarela,Sem instrução,12
+Sudeste,RJ,Ignorada,"Pós-graduação, mestrado ou doutorado",2
+Sudeste,RJ,Indígena,Sem instrução,3
+Sudeste,RJ,Ignorada,Sem instrução,1
+Sudeste,SP,Branca,Superior completo,9965
+Sudeste,SP,Branca,Sem instrução,4984
+Sudeste,SP,Branca,Médio completo,14420
+Sudeste,SP,Branca,Médio incompleto,4668
+Sudeste,SP,Branca,"Pós-graduação, mestrado ou doutorado",2259
+Sudeste,SP,Amarela,Fundamental incompleto,246
+Sudeste,SP,Parda,Sem instrução,2811
+Sudeste,SP,Parda,Fundamental incompleto,9273
+Sudeste,SP,Parda,Médio incompleto,3180
+Sudeste,SP,Parda,Fundamental completo,2751
+Sudeste,SP,Parda,Superior incompleto,1171
+Sudeste,SP,Preta,Médio completo,1969
+Sudeste,SP,Preta,Fundamental incompleto,1746
+Sudeste,SP,Preta,Sem instrução,419
+Sudeste,SP,Preta,Fundamental completo,623
+Sudeste,SP,Preta,Médio incompleto,617
+Sudeste,SP,Preta,Superior completo,683
+Sudeste,SP,Amarela,Superior completo,477
+Sudeste,SP,Preta,Superior incompleto,379
+Sudeste,SP,Indígena,Médio completo,41
+Sudeste,SP,Indígena,Superior completo,15
+Sudeste,SP,Ignorada,Fundamental incompleto,7
+Sudeste,SP,Ignorada,Superior completo,5
+Sudeste,SP,Ignorada,Sem instrução,8
+Sudeste,SP,Indígena,"Pós-graduação, mestrado ou doutorado",1
+Sudeste,SP,Ignorada,Médio incompleto,2
+Sudeste,SP,Ignorada,Superior incompleto,2
+Sudeste,MG,Branca,Sem instrução,3906
+Sudeste,MG,Parda,Médio incompleto,5145
+Sudeste,MG,Parda,Superior completo,2925
+Sudeste,MG,Parda,Fundamental incompleto,20177
+Sudeste,MG,Parda,Sem instrução,5214
+Sudeste,MG,Preta,Superior completo,638
+Sudeste,MG,Branca,Superior incompleto,2187
+Sudeste,MG,Branca,Médio incompleto,3343
+Sudeste,MG,Preta,Médio incompleto,1230
+Sudeste,MG,Preta,Médio completo,2573
+Sudeste,MG,Branca,Fundamental completo,2869
+Sudeste,MG,Preta,Fundamental completo,911
+Sudeste,MG,Indígena,Superior completo,5
+Sudeste,MG,Preta,"Pós-graduação, mestrado ou doutorado",142
+Sudeste,MG,Amarela,"Pós-graduação, mestrado ou doutorado",15
+Sudeste,MG,Amarela,Médio incompleto,13
+Sudeste,MG,Indígena,"Pós-graduação, mestrado ou doutorado",3
+Sudeste,MG,Amarela,Superior incompleto,18
+Sudeste,MG,Indígena,Superior incompleto,7
+Sudeste,MG,Indígena,Sem instrução,6
