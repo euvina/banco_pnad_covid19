@@ -28,7 +28,6 @@ Os dados da pesquisa podem ser obtidos diretamente no portal do IBGE, [clicando 
 **main/**
 
 - `pnad_covid_bigquery`: pasta contendo consultas SQL e tabelas do banco de dados
-- `dashboard_pnad_covid.pbix`: pasta contendo consultas SQL e tabelas do banco de dados
 - `data_pnad_covid.ipynb`: notebook para organização inicial dos dados
 - `data_pnad_covid.ipynb`: notebook com análise exploratória dos dados
 - `pyspark_pnad_covid_perfil`: notebook com consultas sobre o perfil dos respondentes, utilizando o PySpark
