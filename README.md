@@ -1,5 +1,5 @@
 # Banco de Dados Hospitalar a partir da pesquisa PNAD-COVID19 do IBGE
-Criação de banco de dados e análise sobre a pandemia no Brasil, com período de Setembro a Novembro de 2020, a partir da pesquisa PNAD COVID19 do IBGE. 
+Criação de banco de dados e análise sobre a pandemia no Brasil, com período de Setembro a Novembro de 2020, a partir da pesquisa PNAD COVID19 do IBGE.<br>
 *FIAP: Pós Tech - Data Analytics Tech Challenge #03*
 
 Grupo 32 - Autores:
