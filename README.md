@@ -7,7 +7,7 @@ Grupo 32 - Autores:
 - Pedro Baldini
 - Vinícius Prado Lima
 
-**[Link do artigo](colocar link)**
+**[Link do artigo](https://medium.com/grupo-32/banco-de-dados-hospitalar-a-partir-da-pesquisa-pnad-covid19-do-ibge-8600ac678b6b)
 
 ---
 
